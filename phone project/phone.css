@@ -1,0 +1,337 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: pink;
+}
+
+.outline{
+    height:480px;
+    width:325;
+    border:2px solid rgb(19, 18, 18);
+    margin-top: 40px;
+    margin-left: 450px;
+    background-image: url(photo1.jpg);
+    background-size:100% 100%;
+}
+.outline:hover{
+    background-image: url(wallpaper.jpeg);
+
+}
+.box1{
+    width:100%;
+    height:15px;
+    background-color: rgba(0,0,0,0.7);
+    color:white;
+}
+.box1 h6{
+    float:left;
+}
+.box1 pre{
+    float:right;
+}
+.WA {
+    height:50px;
+    width:16%;
+    background-image: url(whatsapp1.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+
+}
+.WA:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.insta {
+    height:50px;
+    width:16%;
+    background-image: url(Instagram.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+
+}
+.insta:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.fb {
+    height:50px;
+    width:16%;
+    background-image: url(fb.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+
+}
+.fb:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.cal {
+    height:50px;
+    width:16%;
+    background-image: url(calander.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.cal:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.calc{
+    height:50px;
+    width:16%;
+    background-image: url(calcultor.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.calc:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.cls{
+    height:50px;
+    width:16%;
+    background-image: url(classroom.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.cls:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.meet{
+    height:50px;
+    width:16%;
+    background-image: url(meet.svg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.meet:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.zoom{
+    height:50px;
+    width:16%;
+    background-image: url(zoom.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.zoom:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.cam{
+    height:50px;
+    width:16%;
+    background-image: url(camera.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.cam:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.chrome{
+    height:50px;
+    width:16%;
+    background-image: url(chrome.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.chrome:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.gal{
+    height:50px;
+    width:16%;
+    background-image: url(galary.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.gal:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.contact{
+    height:50px;
+    width:16%;
+    background-image: url(cont.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.contact:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.clock{
+    height:50px;
+    width:16%;
+    background-image: url(clock.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.clock:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.google{
+    height:50px;
+    width:16%;
+    background-image: url(google.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.google:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.snap{
+    height:50px;
+    width:16%;
+    background-image: url(snapchat.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.snap:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.netflix{
+    height:50px;
+    width:16%;
+    background-image: url(netflix.jpg);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.netflix:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.tel{
+    height:50px;
+    width:16%;
+    background-image: url(telegram.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.tel:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.solo{
+    height:50px;
+    width:16%;
+    background-image: url(sololearn.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.solo:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
+.linkdin{
+    height:50px;
+    width:16%;
+    background-image: url(linkdin.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.linkdin:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+
+}
+.flipkart{
+    height:50px;
+    width:16%;
+    background-image: url(flipcart.png);
+    background-size:100% 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    float:left;
+    border-radius: 20%;
+    box-shadow: 2px 2px red;
+}
+.flipkart:hover{
+    transform: scale(1.1, 1.1);
+    box-shadow:  3px 3px black;
+}
